@@ -1,5 +1,4 @@
-import cv2
-import sys
+import cv2 
 
 # Image to test
 imagePath = "faces.jpg"
